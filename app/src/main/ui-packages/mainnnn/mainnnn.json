@@ -1,0 +1,4101 @@
+{
+  "name": "mainnnn",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "xTYL1iaglY54a2X9FrXOHG",
+    "node": "381:562",
+    "version": "2983705135",
+    "component-id": "cf427102226099a250b14f5f1dd18f0158d0010d"
+  },
+  "default": "Mainnnn",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Filled button_Large"
+      },
+      {
+        "type": "group",
+        "id": "Filled tonal button_Large"
+      },
+      {
+        "type": "group",
+        "id": "Filled tonal button_Large_Right"
+      },
+      {
+        "type": "group",
+        "id": "Large_Title_Trainer"
+      },
+      {
+        "type": "group",
+        "id": "Large_Title_User"
+      },
+      {
+        "type": "group",
+        "id": "Lower_Large_Headline"
+      },
+      {
+        "type": "group",
+        "id": "Upper_Large_Title"
+      },
+      {
+        "type": "group",
+        "id": "Filled card_Large"
+      },
+      {
+        "type": "group",
+        "id": "Large_Title"
+      },
+      {
+        "type": "group",
+        "id": "Frame 204"
+      },
+      {
+        "type": "group",
+        "id": "Chart"
+      },
+      {
+        "type": "group",
+        "id": "Bar_Container"
+      },
+      {
+        "type": "group",
+        "id": "Tab bar"
+      },
+      {
+        "type": "text",
+        "id": "Filled button_Large_Text"
+      },
+      {
+        "type": "text",
+        "id": "Filled button_Large_Direction"
+      },
+      {
+        "type": "group",
+        "id": "State Layer_Filled tonal button_Large"
+      },
+      {
+        "type": "text",
+        "id": "Filled tonal button_Large_Text"
+      },
+      {
+        "type": "text",
+        "id": "Filled tonal button_Large_Direction"
+      },
+      {
+        "type": "group",
+        "id": "State Layer_Filled tonal button_Large_Right"
+      },
+      {
+        "type": "text",
+        "id": "Filled tonal button_Large_Right_Text"
+      },
+      {
+        "type": "text",
+        "id": "Filled tonal button_Large_Right_Direction"
+      },
+      {
+        "type": "text",
+        "id": "Title_Text_Trainer"
+      },
+      {
+        "type": "text",
+        "id": "Title_Text_User"
+      },
+      {
+        "type": "text",
+        "id": "Lower_Headline_Text"
+      },
+      {
+        "type": "text",
+        "id": "Upper_Headline_Text"
+      },
+      {
+        "type": "group",
+        "id": "Filled card_Large_Direction_L"
+      },
+      {
+        "type": "group",
+        "id": "Used icon input"
+      },
+      {
+        "type": "group",
+        "id": "Filled card_Large_Direction_R"
+      },
+      {
+        "type": "vector",
+        "id": "Direction_L_Icon"
+      },
+      {
+        "type": "group",
+        "id": "State layer_Filled card_Large_Icon"
+      },
+      {
+        "type": "text",
+        "id": "Filled card_Large_Text"
+      },
+      {
+        "type": "group",
+        "id": "State_Filled_Middle"
+      },
+      {
+        "type": "text",
+        "id": "Filled card_Large_Icon"
+      },
+      {
+        "type": "text",
+        "id": "Filled_Text_Middle"
+      },
+      {
+        "type": "vector",
+        "id": "Direction_R"
+      },
+      {
+        "type": "text",
+        "id": "Footnote_Text"
+      },
+      {
+        "type": "group",
+        "id": "Exercise_Routine_1"
+      },
+      {
+        "type": "group",
+        "id": "Exercise_Routine_2"
+      },
+      {
+        "type": "group",
+        "id": "Exercise_Routine_3"
+      },
+      {
+        "type": "group",
+        "id": "Image_Frame_1"
+      },
+      {
+        "type": "text",
+        "id": "Excercise name_1"
+      },
+      {
+        "type": "group",
+        "id": "Image_Frame_2"
+      },
+      {
+        "type": "text",
+        "id": "Excercise name_2"
+      },
+      {
+        "type": "group",
+        "id": "Image_Frame_3"
+      },
+      {
+        "type": "text",
+        "id": "Excercise name_3"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Component_1"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Component_2"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Component_3"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Component_4"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Component_5"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Component_6"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Profile_1"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Today class_1"
+      },
+      {
+        "type": "group",
+        "id": "Mannage Button_1"
+      },
+      {
+        "type": "group",
+        "id": "Chart_State_Layer_1"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Ellipse_Disabled_1"
+      },
+      {
+        "type": "text",
+        "id": "Name text_1"
+      },
+      {
+        "type": "group",
+        "id": "Time_1"
+      },
+      {
+        "type": "text",
+        "id": "Start time_1"
+      },
+      {
+        "type": "text",
+        "id": "up to_1"
+      },
+      {
+        "type": "text",
+        "id": "End time_1"
+      },
+      {
+        "type": "group",
+        "id": "Mannage Statement_1"
+      },
+      {
+        "type": "text",
+        "id": "Mannage Text_1"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Profile_2"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Today class_2"
+      },
+      {
+        "type": "group",
+        "id": "Mannage Button_2"
+      },
+      {
+        "type": "group",
+        "id": "Chart_State_Layer_2"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Ellipse_Disabled_2"
+      },
+      {
+        "type": "text",
+        "id": "Name text_2"
+      },
+      {
+        "type": "group",
+        "id": "Time_2"
+      },
+      {
+        "type": "text",
+        "id": "Start time_2"
+      },
+      {
+        "type": "text",
+        "id": "up to_2"
+      },
+      {
+        "type": "text",
+        "id": "End time_2"
+      },
+      {
+        "type": "group",
+        "id": "Mannage Statement_2"
+      },
+      {
+        "type": "text",
+        "id": "Mannage Text_2"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Profile_3"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Today class_3"
+      },
+      {
+        "type": "group",
+        "id": "Mannage Button_3"
+      },
+      {
+        "type": "group",
+        "id": "Chart_State_Layer_3"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Ellipse_Disabled_3"
+      },
+      {
+        "type": "text",
+        "id": "Name text_3"
+      },
+      {
+        "type": "group",
+        "id": "Time_3"
+      },
+      {
+        "type": "text",
+        "id": "Start time_3"
+      },
+      {
+        "type": "text",
+        "id": "up to_3"
+      },
+      {
+        "type": "text",
+        "id": "End time_3"
+      },
+      {
+        "type": "group",
+        "id": "Mannage Statement_3"
+      },
+      {
+        "type": "text",
+        "id": "Mannage Text_3"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Profile_4"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Today class_4"
+      },
+      {
+        "type": "group",
+        "id": "Mannage Button_4"
+      },
+      {
+        "type": "group",
+        "id": "Chart_State_Layer_4"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Ellipse_Disabled_4"
+      },
+      {
+        "type": "text",
+        "id": "Name text_4"
+      },
+      {
+        "type": "group",
+        "id": "Time_4"
+      },
+      {
+        "type": "text",
+        "id": "Start time_4"
+      },
+      {
+        "type": "text",
+        "id": "up to_4"
+      },
+      {
+        "type": "text",
+        "id": "End time_4"
+      },
+      {
+        "type": "group",
+        "id": "Mannage Statement_4"
+      },
+      {
+        "type": "text",
+        "id": "Mannage Text_4"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Profile_5"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Today class_5"
+      },
+      {
+        "type": "group",
+        "id": "Mannage Button_5"
+      },
+      {
+        "type": "group",
+        "id": "Chart_State_Layer_5"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Ellipse_Disabled_5"
+      },
+      {
+        "type": "text",
+        "id": "Name text_5"
+      },
+      {
+        "type": "group",
+        "id": "Time_5"
+      },
+      {
+        "type": "text",
+        "id": "Start time_5"
+      },
+      {
+        "type": "text",
+        "id": "up to_5"
+      },
+      {
+        "type": "text",
+        "id": "End time_5"
+      },
+      {
+        "type": "group",
+        "id": "Mannage Statement_5"
+      },
+      {
+        "type": "text",
+        "id": "Mannage Text_5"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Profile_6"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Today class_6"
+      },
+      {
+        "type": "group",
+        "id": "Mannage Button_6"
+      },
+      {
+        "type": "group",
+        "id": "Chart_State_Layer_6"
+      },
+      {
+        "type": "group",
+        "id": "Chart_Ellipse_Disabled_6"
+      },
+      {
+        "type": "text",
+        "id": "Name text_6"
+      },
+      {
+        "type": "group",
+        "id": "Time_6"
+      },
+      {
+        "type": "text",
+        "id": "Start time_6"
+      },
+      {
+        "type": "text",
+        "id": "up to_6"
+      },
+      {
+        "type": "text",
+        "id": "End time_6"
+      },
+      {
+        "type": "group",
+        "id": "Mannage Statement_6"
+      },
+      {
+        "type": "text",
+        "id": "Mannage Text_6"
+      },
+      {
+        "type": "group",
+        "id": "Bar_Scroll"
+      },
+      {
+        "type": "group",
+        "id": "Tab bar_Component_Excercise"
+      },
+      {
+        "type": "group",
+        "id": "Tab bar_Component_Record"
+      },
+      {
+        "type": "group",
+        "id": "Tab bar_Component_Community"
+      },
+      {
+        "type": "group",
+        "id": "Tab bar_Component_Settings"
+      },
+      {
+        "type": "group",
+        "id": "State Layer_Exercisse_Enabled"
+      },
+      {
+        "type": "group",
+        "id": "Dumbell_Enabled_Icon"
+      },
+      {
+        "type": "text",
+        "id": "Dumbell_Text_Enabled"
+      },
+      {
+        "type": "group",
+        "id": "exercise"
+      },
+      {
+        "type": "vector",
+        "id": "Bounding box"
+      },
+      {
+        "type": "vector",
+        "id": "exercise1"
+      },
+      {
+        "type": "group",
+        "id": "State Layer_Record_Disabled"
+      },
+      {
+        "type": "group",
+        "id": "Record_Disabled_Calender"
+      },
+      {
+        "type": "text",
+        "id": "Record_Disabled_Text"
+      },
+      {
+        "type": "vector",
+        "id": "Calender_Icon"
+      },
+      {
+        "type": "group",
+        "id": "group_Disabled"
+      },
+      {
+        "type": "text",
+        "id": "Community_Disabled_Text"
+      },
+      {
+        "type": "group",
+        "id": "Communication_Disabled"
+      },
+      {
+        "type": "vector",
+        "id": "group_Disabled1"
+      },
+      {
+        "type": "group",
+        "id": "Spring_Disabled"
+      },
+      {
+        "type": "text",
+        "id": "setting_Disabled_Text"
+      },
+      {
+        "type": "vector",
+        "id": "Spring_Disabled_Icon"
+      }
+    ],
+    "modes": {
+      "Mainnnn": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Filled button_Large",
+              "Filled tonal button_Large",
+              "Filled tonal button_Large_Right",
+              "Large_Title_Trainer",
+              "Large_Title_User",
+              "Lower_Large_Headline",
+              "Upper_Large_Title",
+              "Filled card_Large",
+              "Large_Title",
+              "Frame 204",
+              "Chart",
+              "Bar_Container",
+              "Tab bar"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Filled button_Large",
+            "padding": {
+              "left": "16.0",
+              "top": "12.0",
+              "right": "16.0",
+              "bottom": "12.0"
+            },
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "15.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "102.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "60.0"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Filled button_Large_Text",
+              "Filled button_Large_Direction"
+            ],
+            "item-spacing": "8.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "165.77777777777777",
+              "saturation": "0.7417582417582418",
+              "value": "0.7137254901960784"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Filled tonal button_Large",
+            "padding": {
+              "top": "16.0",
+              "bottom": "16.0"
+            },
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "15.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "579.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "cross-axis-align": "start",
+            "children": [
+              "State Layer_Filled tonal button_Large"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "209.99999999999977",
+              "saturation": "0.016260162601626073",
+              "value": "0.9647058823529412"
+            }
+          },
+          {
+            "id": "Filled tonal button_Large_Right",
+            "padding": "16.0",
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "-155.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "cross-axis-align": "start",
+            "children": [
+              "State Layer_Filled tonal button_Large_Right"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "209.99999999999977",
+              "saturation": "0.016260162601626073",
+              "value": "0.9647058823529412"
+            }
+          },
+          {
+            "id": "Large_Title_Trainer",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "38.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Title_Text_Trainer"
+            ]
+          },
+          {
+            "id": "Large_Title_User",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "-714.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "42.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Title_Text_User"
+            ]
+          },
+          {
+            "id": "Lower_Large_Headline",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "-411.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Lower_Headline_Text"
+            ],
+            "item-spacing": "10.0"
+          },
+          {
+            "id": "Upper_Large_Title",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "194.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Upper_Headline_Text"
+            ],
+            "item-spacing": "10.0"
+          },
+          {
+            "id": "Filled card_Large",
+            "padding": "16.0",
+            "border-radius": "24.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "20.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "-472.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "220.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Filled card_Large_Direction_L",
+              "Used icon input",
+              "Filled card_Large_Direction_R"
+            ],
+            "item-spacing": "27.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "209.99999999999977",
+              "saturation": "0.016260162601626073",
+              "value": "0.9647058823529412"
+            }
+          },
+          {
+            "id": "Large_Title",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "-395.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Footnote_Text"
+            ]
+          },
+          {
+            "id": "Frame 204",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "-223.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Exercise_Routine_1",
+              "Exercise_Routine_2",
+              "Exercise_Routine_3"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Chart",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "247.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Chart_Component_1",
+              "Chart_Component_2",
+              "Chart_Component_3",
+              "Chart_Component_4",
+              "Chart_Component_5",
+              "Chart_Component_6"
+            ],
+            "item-spacing": "24.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Bar_Container",
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "340.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "247.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "320.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Bar_Scroll"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "209.99999999999977",
+              "saturation": "0.016260162601626073",
+              "value": "0.9647058823529412"
+            }
+          },
+          {
+            "id": "Tab bar",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "1284.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Tab bar_Component_Excercise",
+              "Tab bar_Component_Record",
+              "Tab bar_Component_Community",
+              "Tab bar_Component_Settings"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Filled button_Large_Text",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "내 운동",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "19.0",
+            "line-height": "1.3684210205078124",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Filled button_Large_Direction",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": ">",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "19.0",
+            "line-height": "1.3684210205078124",
+            "typeface": "Apple SD Gothic Neo"
+          },
+          {
+            "id": "State Layer_Filled tonal button_Large",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Filled tonal button_Large_Text",
+              "Filled tonal button_Large_Direction"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Filled tonal button_Large_Text",
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "전체 회원 보기",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "15.0",
+            "line-height": "1.3333332824707032",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Filled tonal button_Large_Direction",
+            "presence": "false",
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": ">",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.25",
+            "typeface": "Apple SD Gothic Neo"
+          },
+          {
+            "id": "State Layer_Filled tonal button_Large_Right",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "end",
+            "children": [
+              "Filled tonal button_Large_Right_Text",
+              "Filled tonal button_Large_Right_Direction"
+            ],
+            "item-spacing": "8.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Filled tonal button_Large_Right_Text",
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "다른 루틴 설정하기",
+            "overflow": "visible",
+            "text-align": "right",
+            "text-align-vertical": "center",
+            "text-size": "15.0",
+            "line-height": "1.3333332824707032",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Filled tonal button_Large_Right_Direction",
+            "presence": "false",
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": ">",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.25",
+            "typeface": "Apple SD Gothic Neo"
+          },
+          {
+            "id": "Title_Text_Trainer",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "운동",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "35.0",
+            "line-height": "1.057142868041992",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Title_Text_User",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "4.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Logo",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "35.0",
+            "line-height": "1.057142868041992",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Lower_Headline_Text",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "오늘의 루틴",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "19.0",
+            "line-height": "1.3684210205078124",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Upper_Headline_Text",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "오늘의 수업",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "19.0",
+            "line-height": "1.3684210205078124",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Filled card_Large_Direction_L",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Direction_L_Icon"
+            ]
+          },
+          {
+            "id": "Used icon input",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "children": [
+              "State layer_Filled card_Large_Icon",
+              "Filled card_Large_Text",
+              "State_Filled_Middle"
+            ],
+            "item-spacing": "24.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Filled card_Large_Direction_R",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Direction_R"
+            ]
+          },
+          {
+            "id": "Direction_L_Icon",
+            "margin": {
+              "left": "9.0",
+              "top": "6.0",
+              "right": "9.0",
+              "bottom": "6.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "direction_l_icon.svg"
+          },
+          {
+            "id": "State layer_Filled card_Large_Icon",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "186.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "54.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Filled card_Large_Icon"
+            ]
+          },
+          {
+            "id": "Filled card_Large_Text",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "186.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "46.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "오늘은 \n등 운동할 차례네요!",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "19.0",
+            "line-height": "1.3684210205078124",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "State_Filled_Middle",
+            "padding": {
+              "left": "16.0",
+              "top": "8.0",
+              "right": "16.0",
+              "bottom": "8.0"
+            },
+            "border-radius": "8.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Filled_Text_Middle"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.5372549019607843"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Filled card_Large_Icon",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "186.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "🥰",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "56.0",
+            "letter-spacing": "-1.68",
+            "line-height": "0.8571428680419921",
+            "typeface": "Apple SD Gothic Neo"
+          },
+          {
+            "id": "Filled_Text_Middle",
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "운동하기",
+            "overflow": "visible",
+            "text-size": "15.0",
+            "line-height": "1.2",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Direction_R",
+            "margin": {
+              "left": "9.0",
+              "top": "6.0",
+              "right": "9.0",
+              "bottom": "6.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "direction_r.svg"
+          },
+          {
+            "id": "Footnote_Text",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "1.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "328.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            },
+            "text-content": "루틴 수정하기 >",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "right",
+            "text-size": "15.0",
+            "line-height": "1.2",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Exercise_Routine_1",
+            "padding": "16.0",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              }
+            },
+            "children": [
+              "Image_Frame_1",
+              "Excercise name_1"
+            ],
+            "item-spacing": "4.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "209.99999999999977",
+              "saturation": "0.016260162601626073",
+              "value": "0.9647058823529412"
+            }
+          },
+          {
+            "id": "Exercise_Routine_2",
+            "padding": "16.0",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              }
+            },
+            "children": [
+              "Image_Frame_2",
+              "Excercise name_2"
+            ],
+            "item-spacing": "4.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "209.99999999999977",
+              "saturation": "0.016260162601626073",
+              "value": "0.9647058823529412"
+            }
+          },
+          {
+            "id": "Exercise_Routine_3",
+            "padding": "16.0",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "160.0"
+              }
+            },
+            "children": [
+              "Image_Frame_3",
+              "Excercise name_3"
+            ],
+            "item-spacing": "4.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "209.99999999999977",
+              "saturation": "0.016260162601626073",
+              "value": "0.9647058823529412"
+            }
+          },
+          {
+            "id": "Image_Frame_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "116.0"
+              }
+            },
+            "is-structured": "false"
+          },
+          {
+            "id": "Excercise name_1",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "시티드 케이블 로우",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "letter-spacing": "-0.32999999999999996",
+            "line-height": "1.272727279663086",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Image_Frame_2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "116.0"
+              }
+            },
+            "is-structured": "false"
+          },
+          {
+            "id": "Excercise name_2",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "데드리프트",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "letter-spacing": "-0.32999999999999996",
+            "line-height": "1.272727279663086",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Image_Frame_3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "80.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "116.0"
+              }
+            },
+            "is-structured": "false"
+          },
+          {
+            "id": "Excercise name_3",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "트위스트 슈퍼",
+            "overflow": "visible",
+            "text-size": "11.0",
+            "letter-spacing": "-0.32999999999999996",
+            "line-height": "1.272727279663086",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Chart_Component_1",
+            "opacity": "0.800000011920929",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "310.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Chart_Profile_1",
+              "Chart_Today class_1",
+              "Mannage Button_1"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Chart_Component_2",
+            "opacity": "0.800000011920929",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "310.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Chart_Profile_2",
+              "Chart_Today class_2",
+              "Mannage Button_2"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Chart_Component_3",
+            "opacity": "0.800000011920929",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "310.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Chart_Profile_3",
+              "Chart_Today class_3",
+              "Mannage Button_3"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Chart_Component_4",
+            "opacity": "0.800000011920929",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "310.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Chart_Profile_4",
+              "Chart_Today class_4",
+              "Mannage Button_4"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Chart_Component_5",
+            "opacity": "0.800000011920929",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "310.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Chart_Profile_5",
+              "Chart_Today class_5",
+              "Mannage Button_5"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Chart_Component_6",
+            "opacity": "0.800000011920929",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "310.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Chart_Profile_6",
+              "Chart_Today class_6",
+              "Mannage Button_6"
+            ],
+            "item-spacing": "16.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Chart_Profile_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Chart_State_Layer_1"
+            ]
+          },
+          {
+            "id": "Chart_Today class_1",
+            "padding": {
+              "top": "6.0",
+              "bottom": "6.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Name text_1",
+              "Time_1"
+            ],
+            "item-spacing": "8.0"
+          },
+          {
+            "id": "Mannage Button_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Mannage Statement_1"
+            ]
+          },
+          {
+            "id": "Chart_State_Layer_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Chart_Ellipse_Disabled_1"
+            ]
+          },
+          {
+            "id": "Chart_Ellipse_Disabled_1",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            }
+          },
+          {
+            "id": "Name text_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "42.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "김수진",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "15.0",
+            "line-height": "1.3333332824707032",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Time_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Start time_1",
+              "up to_1",
+              "End time_1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Start time_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "00:00",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "up to_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "-",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "End time_1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "00:00",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Mannage Statement_1",
+            "border-radius": "4.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "stroke-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            },
+            "is-structured": "false",
+            "children": [
+              "Mannage Text_1"
+            ]
+          },
+          {
+            "id": "Mannage Text_1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "관리",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "letter-spacing": "-0.32999999999999996",
+            "line-height": "1.272727279663086",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Chart_Profile_2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Chart_State_Layer_2"
+            ]
+          },
+          {
+            "id": "Chart_Today class_2",
+            "padding": {
+              "top": "6.0",
+              "bottom": "6.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Name text_2",
+              "Time_2"
+            ],
+            "item-spacing": "8.0"
+          },
+          {
+            "id": "Mannage Button_2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Mannage Statement_2"
+            ]
+          },
+          {
+            "id": "Chart_State_Layer_2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Chart_Ellipse_Disabled_2"
+            ]
+          },
+          {
+            "id": "Chart_Ellipse_Disabled_2",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            }
+          },
+          {
+            "id": "Name text_2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "42.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "김수진",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "15.0",
+            "line-height": "1.2",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Time_2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Start time_2",
+              "up to_2",
+              "End time_2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Start time_2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "00:00",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "up to_2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "-",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "End time_2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "00:00",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Mannage Statement_2",
+            "border-radius": "4.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "stroke-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            },
+            "is-structured": "false",
+            "children": [
+              "Mannage Text_2"
+            ]
+          },
+          {
+            "id": "Mannage Text_2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "관리",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "letter-spacing": "-0.32999999999999996",
+            "line-height": "1.272727279663086",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Chart_Profile_3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Chart_State_Layer_3"
+            ]
+          },
+          {
+            "id": "Chart_Today class_3",
+            "padding": {
+              "top": "6.0",
+              "bottom": "6.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Name text_3",
+              "Time_3"
+            ],
+            "item-spacing": "8.0"
+          },
+          {
+            "id": "Mannage Button_3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Mannage Statement_3"
+            ]
+          },
+          {
+            "id": "Chart_State_Layer_3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Chart_Ellipse_Disabled_3"
+            ]
+          },
+          {
+            "id": "Chart_Ellipse_Disabled_3",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            }
+          },
+          {
+            "id": "Name text_3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "42.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "김수진",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "15.0",
+            "line-height": "1.2",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Time_3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Start time_3",
+              "up to_3",
+              "End time_3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Start time_3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "00:00",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "up to_3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "-",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "End time_3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "00:00",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Mannage Statement_3",
+            "border-radius": "4.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "stroke-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            },
+            "is-structured": "false",
+            "children": [
+              "Mannage Text_3"
+            ]
+          },
+          {
+            "id": "Mannage Text_3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "관리",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "letter-spacing": "-0.32999999999999996",
+            "line-height": "1.272727279663086",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Chart_Profile_4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Chart_State_Layer_4"
+            ]
+          },
+          {
+            "id": "Chart_Today class_4",
+            "padding": {
+              "top": "6.0",
+              "bottom": "6.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Name text_4",
+              "Time_4"
+            ],
+            "item-spacing": "8.0"
+          },
+          {
+            "id": "Mannage Button_4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Mannage Statement_4"
+            ]
+          },
+          {
+            "id": "Chart_State_Layer_4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Chart_Ellipse_Disabled_4"
+            ]
+          },
+          {
+            "id": "Chart_Ellipse_Disabled_4",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            }
+          },
+          {
+            "id": "Name text_4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "42.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "김수진",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "15.0",
+            "line-height": "1.2",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Time_4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Start time_4",
+              "up to_4",
+              "End time_4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Start time_4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "00:00",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "up to_4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "-",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "End time_4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "00:00",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Mannage Statement_4",
+            "border-radius": "4.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "stroke-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            },
+            "is-structured": "false",
+            "children": [
+              "Mannage Text_4"
+            ]
+          },
+          {
+            "id": "Mannage Text_4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "관리",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "letter-spacing": "-0.32999999999999996",
+            "line-height": "1.272727279663086",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Chart_Profile_5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Chart_State_Layer_5"
+            ]
+          },
+          {
+            "id": "Chart_Today class_5",
+            "padding": {
+              "top": "6.0",
+              "bottom": "6.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Name text_5",
+              "Time_5"
+            ],
+            "item-spacing": "8.0"
+          },
+          {
+            "id": "Mannage Button_5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Mannage Statement_5"
+            ]
+          },
+          {
+            "id": "Chart_State_Layer_5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Chart_Ellipse_Disabled_5"
+            ]
+          },
+          {
+            "id": "Chart_Ellipse_Disabled_5",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            }
+          },
+          {
+            "id": "Name text_5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "42.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "김수진",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "15.0",
+            "line-height": "1.3333332824707032",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Time_5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Start time_5",
+              "up to_5",
+              "End time_5"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Start time_5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "00:00",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "up to_5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "-",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "End time_5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "00:00",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Mannage Statement_5",
+            "border-radius": "4.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "stroke-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            },
+            "is-structured": "false",
+            "children": [
+              "Mannage Text_5"
+            ]
+          },
+          {
+            "id": "Mannage Text_5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "관리",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "letter-spacing": "-0.32999999999999996",
+            "line-height": "1.272727279663086",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Chart_Profile_6",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Chart_State_Layer_6"
+            ]
+          },
+          {
+            "id": "Chart_Today class_6",
+            "padding": {
+              "top": "6.0",
+              "bottom": "6.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Name text_6",
+              "Time_6"
+            ],
+            "item-spacing": "8.0"
+          },
+          {
+            "id": "Mannage Button_6",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Mannage Statement_6"
+            ]
+          },
+          {
+            "id": "Chart_State_Layer_6",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Chart_Ellipse_Disabled_6"
+            ]
+          },
+          {
+            "id": "Chart_Ellipse_Disabled_6",
+            "border-radius": "16.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            }
+          },
+          {
+            "id": "Name text_6",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "42.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "김수진",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "15.0",
+            "line-height": "1.2",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Time_6",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Start time_6",
+              "up to_6",
+              "End time_6"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Start time_6",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "00:00",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "up to_6",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "-",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "End time_6",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "00:00",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Mannage Statement_6",
+            "border-radius": "4.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "stroke-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            },
+            "is-structured": "false",
+            "children": [
+              "Mannage Text_6"
+            ]
+          },
+          {
+            "id": "Mannage Text_6",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "관리",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "letter-spacing": "-0.32999999999999996",
+            "line-height": "1.272727279663086",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Bar_Scroll",
+            "border-radius": "8.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "188.0"
+              }
+            },
+            "relative-transform": [
+              [
+                "1.0",
+                "0.0",
+                "0.0"
+              ],
+              [
+                "0.0",
+                "-1.0",
+                "0.0"
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "3.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "168.0"
+              }
+            },
+            "is-structured": "false",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.8509803921568627"
+            }
+          },
+          {
+            "id": "Tab bar_Component_Excercise",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "children": [
+              "State Layer_Exercisse_Enabled"
+            ]
+          },
+          {
+            "id": "Tab bar_Component_Record",
+            "padding": {
+              "top": "8.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "children": [
+              "State Layer_Record_Disabled"
+            ]
+          },
+          {
+            "id": "Tab bar_Component_Community",
+            "padding": {
+              "top": "14.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              }
+            },
+            "children": [
+              "group_Disabled",
+              "Community_Disabled_Text"
+            ],
+            "item-spacing": "2.0"
+          },
+          {
+            "id": "Tab bar_Component_Settings",
+            "padding": {
+              "top": "12.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "56.0"
+              }
+            },
+            "children": [
+              "Spring_Disabled",
+              "setting_Disabled_Text"
+            ],
+            "item-spacing": "4.0"
+          },
+          {
+            "id": "State Layer_Exercisse_Enabled",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "children": [
+              "Dumbell_Enabled_Icon",
+              "Dumbell_Text_Enabled"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Dumbell_Enabled_Icon",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "exercise"
+            ]
+          },
+          {
+            "id": "Dumbell_Text_Enabled",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "운동",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "exercise",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Bounding box",
+              "exercise1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Bounding box",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "exercise1",
+            "margin": {
+              "left": "2.70001220703125",
+              "top": "2.64892578125",
+              "right": "2.6666259765625",
+              "bottom": "2.7001953125"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "exercise.svg"
+          },
+          {
+            "id": "State Layer_Record_Disabled",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Record_Disabled_Calender",
+              "Record_Disabled_Text"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Record_Disabled_Calender",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Calender_Icon"
+            ]
+          },
+          {
+            "id": "Record_Disabled_Text",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            },
+            "text-content": "기록",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Calender_Icon",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "vector-content": "calender_icon.svg"
+          },
+          {
+            "id": "group_Disabled",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Communication_Disabled"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Community_Disabled_Text",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            },
+            "text-content": "커뮤니티",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Communication_Disabled",
+            "is-structured": "false",
+            "children": [
+              "group_Disabled1"
+            ]
+          },
+          {
+            "id": "group_Disabled1",
+            "margin": {
+              "left": "1.0",
+              "top": "4.0",
+              "right": "1.0",
+              "bottom": "4.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "group_disabled.svg"
+          },
+          {
+            "id": "Spring_Disabled",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "children": [
+              "Spring_Disabled_Icon"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "setting_Disabled_Text",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.6745098039215687"
+            },
+            "text-content": "설정",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "9.0",
+            "line-height": "1.222222213745117",
+            "typeface": "Pretendard"
+          },
+          {
+            "id": "Spring_Disabled_Icon",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "17.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "17.0"
+              }
+            },
+            "vector-content": "spring_disabled_icon.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Mainnnn",
+      "size": {
+        "width": 360.0,
+        "height": 1348.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
